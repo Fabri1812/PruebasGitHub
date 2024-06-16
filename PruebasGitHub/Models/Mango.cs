@@ -10,7 +10,7 @@ namespace PruebasGitHub.Models
         [Required]
         public string Nombre { get; set; }
 
-        public string Penesote { get; set; }
+        public string penecito { get; set; }
 
     }
 }
