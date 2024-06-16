@@ -10,7 +10,7 @@ namespace PruebasGitHub.Models
         [Required]
         public string Nombre { get; set; }
 
-        public string manitadegata { get; set; }
+        public string gdffcxcxcx { get; set; }
 
     }
 }
