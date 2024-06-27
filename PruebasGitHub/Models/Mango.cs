@@ -14,7 +14,6 @@ namespace PruebasGitHub.Models
         public string variable1 { get; set; }
 
         public string variable2 { get; set; }
-        public string variable3 { get; set; }
 
         public string variable4 { get; set; }
     }
