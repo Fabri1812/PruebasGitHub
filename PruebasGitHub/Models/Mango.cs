@@ -11,6 +11,7 @@ namespace PruebasGitHub.Models
         public string Nombre { get; set; }
 
         public string gdffcxcxcx { get; set; }
+        public string variable1 { get; set; }
 
     }
 }
