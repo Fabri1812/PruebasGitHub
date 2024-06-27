@@ -33,5 +33,12 @@ namespace PruebasGitHub.Models
         public string variable9 { get; set; }
         public string variable10 { get; set; }
         public string variable11 { get; set; }
+        public string variable12 { get; set; }
+        public string variable13 { get; set; }
+        public string variable14 { get; set; }
+        public string variable15 { get; set; }
+        public string variable16 { get; set; }
+        public string variable17 { get; set; }
+        public string variable18 { get; set; }
     }
 }
