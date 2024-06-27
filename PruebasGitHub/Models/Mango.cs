@@ -12,5 +12,7 @@ namespace PruebasGitHub.Models
 
         public string gdffcxcxcx { get; set; }
 
+        public string variable2 { get; set; }
+
     }
 }
